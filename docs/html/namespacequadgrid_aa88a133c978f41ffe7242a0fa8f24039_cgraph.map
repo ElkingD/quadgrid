@@ -1,5 +1,0 @@
-<map id="quadgrid::sphereHarmonic" name="quadgrid::sphereHarmonic">
-<area shape="rect" id="node2" href="$namespacequadgrid.html#a47a8db2386e60b76228b34ca3d3d2719" title="Computes complex spherical harmonics Y(l,m) up to degree lmax using a Cartesian unit vector..." alt="" coords="228,46,403,73"/>
-<area shape="rect" id="node3" href="$namespacequadgrid.html#a9ecf64029aa7badb2ded689b741027ec" title="quadgrid::getSphereHarmonic\lTable" alt="" coords="451,5,645,47"/>
-<area shape="rect" id="node4" href="$namespacequadgrid.html#aed2a131056c09d9299f5215d28d5c310" title="Returns the number of complex spherical harmonic values Y(l,m), using a compact 1D layout..." alt="" coords="461,71,635,112"/>
-</map>

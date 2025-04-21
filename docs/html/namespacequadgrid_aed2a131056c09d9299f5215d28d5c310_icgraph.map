@@ -1,5 +1,0 @@
-<map id="quadgrid::sphereHarmonicArraySize" name="quadgrid::sphereHarmonicArraySize">
-<area shape="rect" id="node2" href="$namespacequadgrid.html#a47a8db2386e60b76228b34ca3d3d2719" title="Computes complex spherical harmonics Y(l,m) up to degree lmax using a Cartesian unit vector..." alt="" coords="228,42,403,69"/>
-<area shape="rect" id="node3" href="$namespacequadgrid.html#ad27f260822d5c82dc1443b07709fa23a" title="Computes the flat array index for Y(l,m) where l &gt;= m &gt;= 0. " alt="" coords="451,5,625,47"/>
-<area shape="rect" id="node4" href="$namespacequadgrid.html#aa88a133c978f41ffe7242a0fa8f24039" title="Computes complex spherical harmonics Y(l,m) up to degree lmax using spherical coordinates. " alt="" coords="451,71,625,98"/>
-</map>
