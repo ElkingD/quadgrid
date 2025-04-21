@@ -1,0 +1,42 @@
+
+# Doxyfile 1.9.x for quadgrid
+
+PROJECT_NAME           = quadgrid
+PROJECT_BRIEF          = "High-accuracy quadrature grids for scientific computing"
+OUTPUT_DIRECTORY       = docs
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+INPUT                  = include 
+RECURSIVE              = YES
+FILE_PATTERNS          = *.hpp *.cpp
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = NO
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_ANON_NSPACES   = YES
+
+HIDE_UNDOC_MEMBERS     = NO
+HIDE_UNDOC_CLASSES     = NO
+
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+STRIP_CODE_COMMENTS    = NO
+
+GENERATE_TREEVIEW      = YES
+
+# Enable math formulas and LaTeX-style syntax
+USE_MATHJAX            = YES
+MATHJAX_RELPATH        = https://cdn.jsdelivr.net/npm/mathjax@3/es5/
+
+# If Graphviz is installed (for diagrams)
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DOT_IMAGE_FORMAT       = png
+DOT_MULTI_TARGETS      = YES
+
+# Optional: link README.md as the main page
+USE_MDFILE_AS_MAINPAGE = README.md
+MARKDOWN_SUPPORT       = YES

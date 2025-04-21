@@ -1,0 +1,11 @@
+# Ignore build artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
