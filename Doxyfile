@@ -40,3 +40,7 @@ DOT_MULTI_TARGETS      = YES
 # Optional: link README.md as the main page
 USE_MDFILE_AS_MAINPAGE = README.md
 MARKDOWN_SUPPORT       = YES
+
+
+HTML_HEADER = custom_header.html
+
