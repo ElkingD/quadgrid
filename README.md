@@ -29,3 +29,7 @@ std::vector<double> x, w;
 quadgrid::gaussLegendreGrid (64, x, w, 2.0, 5.0);
 // creates a Gauss Legendre grid of order 64 for the [2.0, 5.0] interval
 
+
+📖 [View the Documentation](https://elkingd.github.io/quadgrid/index.html)
+
+
